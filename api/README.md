@@ -12,7 +12,7 @@ _And also Postman for testing API._
 > Then install all neccessary packages using `npm install`.
 > Next step, is to congirure database. My solution is using MongoDB, so you can create you own cluster in Atlas `https://www.mongodb.com/cloud/atlas/register` or crete in localy using Compass `https://www.mongodb.com/products/tools/compass`. Do not forget to grab url to your DB and password to it. When it's done, come into `api` folder again.
 >
-> Depending on what you want to do with solution, there is thee 'modes': `development`, `production` and `test`. If you are a developer, i'll have to create two new files in root directory of project: `.env.development` and `.env.test` I you want to deploy solution somewhere - create `.env.production`. Despite name, there wont be a lot of difference in these files. Common settings will look like that:
+> Depending on what you want to do with solution, there is thee 'modes': `development`, `production` and `test`. If you are not going to use it in production right now, i'll have to create two new files in `api` directory of project: `.env.development` and `.env.test` I you want to deploy solution somewhere - create `.env.production`. Despite name, there wont be a lot of difference in these files. Common settings will look like that:
 
 ```
 PORT = your_port(default is 3000)
