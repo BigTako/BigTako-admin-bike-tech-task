@@ -12,7 +12,7 @@ _And also React-Query._
 
 #### API
 
-> In order to setup application you'll need to setup API first. Do do this read full API documentation here `https://github.com/BigTako/BigTako-admin-bike-tech-task/blob/master/api/README.md`. Then it's done, run `npm run start:prod`in`api` folder to run an application in production mode.
+> In order to setup application you'll need to setup API first. Do do this read full API documentation here `https://github.com/BigTako/admin-bike-tech-task/blob/master/api/README.md`. Then it's done, run `npm run start:prod`in`api` folder to run an application in production mode.
 
 #### App
 

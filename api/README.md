@@ -8,7 +8,7 @@ _And also Postman for testing API._
 
 # How to run:
 
-> To run API , firstly clone my repository with API using `git clone https://github.com/BigTako/BigTako-admin-bike-tech-task.git`. Then run `cd api`.
+> To run API , firstly clone my repository with API using `git clone https://github.com/BigTako/admin-bike-tech-task.git`. Then run `cd api`.
 > Then install all neccessary packages using `npm install`.
 > Next step, is to congirure database. My solution is using MongoDB, so you can create you own cluster in Atlas `https://www.mongodb.com/cloud/atlas/register` or crete in localy using Compass `https://www.mongodb.com/products/tools/compass`. Do not forget to grab url to your DB and password to it. When it's done, come into `api` folder again.
 >
