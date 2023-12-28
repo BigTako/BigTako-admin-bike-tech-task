@@ -1,5 +1,7 @@
 # Admin bike App 🏍
 
+> Short presentation of app work is available [here](https://youtu.be/jlrthJ7b_dY?si=yuoQO2FQO3hq0nlh).
+
 ### Technology Stack
 
 - #### FrontEnd Part
